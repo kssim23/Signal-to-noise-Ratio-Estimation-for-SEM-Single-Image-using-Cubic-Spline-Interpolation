@@ -1,4 +1,4 @@
-# Signal-to-noise-Ratio-Estimation-for-SEM-Single-Image-using-Cubic-Spline-Interpolation
+# Signal-to-noise Ratio Estimation for SEM Single Image using Cubic Spline Interpolation with Linear Least Square Regression 
 
 Signal-to-noise Ratio Estimation for SEM Single Image using Cubic Spline Interpolation with Linear Least Square Regression 
 
